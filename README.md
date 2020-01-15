@@ -1,1 +1,1 @@
-# med-app
+# template angular app api
